@@ -1,0 +1,134 @@
+{
+    "matematica": {
+        "6ano": [
+            {
+                "id": 1,
+                "habilidade": "EF06MA03",
+                "enunciado": "Qual é o resultado da operação 2/3 + 1/6?",
+                "opcoes": ["5/6", "3/9", "1/2", "7/6"],
+                "resposta_correta": "5/6",
+                "explicacao": "Para somar frações com denominadores diferentes, precisamos encontrar um denominador comum. Neste caso, 6 é o MMC. Então, 2/3 = 4/6, e 4/6 + 1/6 = 5/6."
+            },
+            {
+                "id": 2,
+                "habilidade": "EF06MA07",
+                "enunciado": "Em uma loja, 30% dos produtos estão em promoção. Se a loja tem 200 produtos, quantos estão em promoção?",
+                "opcoes": ["40", "50", "60", "70"],
+                "resposta_correta": "60",
+                "explicacao": "30% de 200 = (30/100) × 200 = 60"
+            },
+            {
+                "id": 3,
+                "habilidade": "EF06MA04",
+                "enunciado": "Qual é o mínimo múltiplo comum (MMC) entre 12 e 18?",
+                "opcoes": ["36", "24", "48", "72"],
+                "resposta_correta": "36",
+                "explicacao": "Decompondo 12 = 2² × 3 e 18 = 2 × 3², o MMC será 2² × 3² = 36"
+            },
+            {
+                "id": 4,
+                "habilidade": "EF06MA08",
+                "enunciado": "Um retângulo tem base 8 cm e perímetro 28 cm. Qual é a altura deste retângulo?",
+                "opcoes": ["4 cm", "6 cm", "8 cm", "10 cm"],
+                "resposta_correta": "6 cm",
+                "explicacao": "Perímetro = 2(base + altura). 28 = 2(8 + altura). 28 = 16 + 2altura. 2altura = 12. altura = 6"
+            },
+            {
+                "id": 5,
+                "habilidade": "EF06MA10",
+                "enunciado": "Qual é o resultado de (-15) ÷ 3?",
+                "opcoes": ["-5", "5", "-3", "3"],
+                "resposta_correta": "-5",
+                "explicacao": "Na divisão, quando os sinais são diferentes, o resultado é negativo. -15 ÷ 3 = -5"
+            }
+        ],
+        "7ano": [
+            {
+                "id": 1,
+                "habilidade": "EF07MA05",
+                "enunciado": "Resolva a equação: 3x + 5 = 20",
+                "opcoes": ["5", "15", "5/3", "5/2"],
+                "resposta_correta": "5",
+                "explicacao": "Subtraindo 5 dos dois lados: 3x = 15. Dividindo por 3: x = 5"
+            },
+            {
+                "id": 2,
+                "habilidade": "EF07MA02",
+                "enunciado": "Qual é o valor de (-3) × (-4) × 2?",
+                "opcoes": ["24", "-24", "12", "-12"],
+                "resposta_correta": "24",
+                "explicacao": "(-3) × (-4) = 12, então 12 × 2 = 24"
+            },
+            {
+                "id": 3,
+                "habilidade": "EF07MA09",
+                "enunciado": "Em uma escola, 3/5 dos alunos são meninas. Se há 240 alunos no total, quantos são meninos?",
+                "opcoes": ["96", "144", "120", "160"],
+                "resposta_correta": "96",
+                "explicacao": "Se 3/5 são meninas, 2/5 são meninos. 2/5 de 240 = (2 × 240) ÷ 5 = 96"
+            },
+            {
+                "id": 4,
+                "habilidade": "EF07MA13",
+                "enunciado": "Um produto custava R$ 80,00 e teve um aumento de 25%. Qual é o novo preço?",
+                "opcoes": ["R$ 90,00", "R$ 95,00", "R$ 100,00", "R$ 105,00"],
+                "resposta_correta": "R$ 100,00",
+                "explicacao": "25% de 80 = 20. Novo preço = 80 + 20 = 100"
+            },
+            {
+                "id": 5,
+                "habilidade": "EF07MA17",
+                "enunciado": "Qual é a área de um triângulo com base 12 cm e altura 8 cm?",
+                "opcoes": ["48 cm²", "96 cm²", "24 cm²", "36 cm²"],
+                "resposta_correta": "48 cm²",
+                "explicacao": "Área do triângulo = (base × altura) ÷ 2 = (12 × 8) ÷ 2 = 48"
+            }
+        ]
+    },
+    "ingles": {
+        "6ano": [
+            {
+                "id": 1,
+                "habilidade": "EF06LI04",
+                "enunciado": "Read the text:\n'John plays soccer every Monday with his friends at school.'\nWhat day does John play soccer?",
+                "traducao": "Leia o texto:\n'John joga futebol toda segunda-feira com seus amigos na escola.'\nEm que dia John joga futebol?",
+                "opcoes": ["Sunday", "Monday", "Tuesday", "Friday"],
+
+                "resposta_correta": "Monday",
+                "explicacao": "O texto claramente diz que John joga futebol 'toda segunda-feira'."
+            },
+            {
+                "id": 2,
+                "habilidade": "EF06LI05",
+                "enunciado": "Read:\n'My favorite color is blue. I have a blue bike and blue shoes.'\nWhat is the person's favorite color?",
+                "traducao": "Leia:\n'Minha cor favorita é azul. Eu tenho uma bicicleta azul e sapatos azuis.'\nQual é a cor favorita da pessoa?",
+                "opcoes": ["Red", "Blue", "Green", "Yellow"],
+
+                "resposta_correta": "Blue",
+                "explicacao": "O texto diz diretamente que a cor favorita é azul (blue)."
+            }
+        ],
+        "7ano": [
+            {
+                "id": 1,
+                "habilidade": "EF07LI06",
+                "enunciado": "Read:\n'Sarah loves reading books. Her favorite place to read is under the big tree in the park.'\nWhere does Sarah prefer to read?",
+                "traducao": "Leia:\n'Sarah ama ler livros. Seu lugar favorito para ler é embaixo da árvore grande no parque.'\nOnde Sarah prefere ler?",
+                "opcoes": ["At home", "In the library", "Under a tree in the park", "At school"],
+
+                "resposta_correta": "Under a tree in the park",
+                "explicacao": "O texto menciona que o lugar favorito de Sarah para ler é 'embaixo da árvore grande no parque'."
+            },
+            {
+                "id": 2,
+                "habilidade": "EF07LI07",
+                "enunciado": "Read:\n'Tom is very athletic. He plays basketball on Mondays, swims on Wednesdays, and runs every weekend.'\nWhich sport does Tom practice on Wednesdays?",
+                "traducao": "Leia:\n'Tom é muito atlético. Ele joga basquete às segundas-feiras, nada às quartas-feiras e corre todo fim de semana.'\nQual esporte Tom pratica às quartas-feiras?",
+                "opcoes": ["Basketball", "Swimming", "Running", "Soccer"],
+
+                "resposta_correta": "Swimming",
+                "explicacao": "O texto diz que Tom nada (swims) às quartas-feiras."
+            }
+        ]
+    }
+}
